@@ -1,0 +1,17 @@
+{"application_start_date_time":"2022-07-10T13:21:37.089Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:21:37.111Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:38:10.678Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:39:33.144Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:40:05.601Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:40:17.213Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:40:17.244Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:40:31.071Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:41:17.664Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T13:42:16.598Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:28:46.455Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:28:46.404Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:40:24.976Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:40:24.993Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:40:27.223Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:40:27.281Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
+{"application_start_date_time":"2022-07-10T14:40:47.649Z","level":"info","message":"Application started on port 5000","service":"application"}
