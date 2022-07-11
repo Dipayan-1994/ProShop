@@ -15,3 +15,16 @@
 {"application_start_date_time":"2022-07-10T14:40:27.223Z","level":"info","message":"Application started on port 5000","service":"application"}
 {"application_start_date_time":"2022-07-10T14:40:27.281Z","level":"error","message":"listen EADDRINUSE: address already in use :::5000","service":"application"}
 {"application_start_date_time":"2022-07-10T14:40:47.649Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:11:02.272Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:16:03.991Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:22:32.718Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:24:06.956Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:34:15.857Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:39:28.611Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T17:52:01.321Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:00:40.370Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:37:35.425Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:37:53.573Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:38:42.991Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:42:15.010Z","level":"info","message":"Application started on port 5000","service":"application"}
+{"application_start_date_time":"2022-07-11T18:42:47.578Z","level":"info","message":"Application started on port 5000","service":"application"}
